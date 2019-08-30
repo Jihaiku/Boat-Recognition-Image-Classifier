@@ -4,6 +4,9 @@
 This project is directed towards creating a solid CNN to be used to classify images of boats from a Kaggle dataset. 
 
 This project contains primarily different ways of approaching optimization and regularization of the images as well as how to organize them.
+
+![luxury-yacht-boat-speed-water-163236](https://user-images.githubusercontent.com/48660919/64012007-d4a12780-caea-11e9-9d1e-42709d67bb3b.jpeg)
+
 ### Abstract
 What this project completes is as follows:
   1) Clean up any underlying issues within the data
