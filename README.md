@@ -1,4 +1,4 @@
-# Flat-Iron-Mod-4-Presentation
+# Boat Recognition Image Classifier
 
 ## Boat Image Classification
 This project is directed towards creating a solid CNN to be used to classify images of boats from a Kaggle dataset. 
